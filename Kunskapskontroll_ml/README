@@ -1,0 +1,3 @@
+Det här projektet innehåller en maskininlärningsmodell som är tränad att identifiera handskrivna siffror. Det är ett examinerande projekt vid EC Utbildning AB.
+
+**Modellen finns på Huggingface:** [Huggingface-repo](https://huggingface.co/SisselN/voting_clf_MNIST/tree/main)
